@@ -4,17 +4,16 @@
 😄 Pronouns: He/Him <br/>
 
 - 🎓 I’m currently pursuing my Bachelors in Computer Science Engineering and have a strong interest in Coding💙 <br/>
--
-- 👀 I’m interested in Problem solving, DSA problems and Web development. <br/>
-- 
-- 🌱 I’m currently learning Full stack development. <br/>
-- 
-- 💞️ I’m looking to collaborate on New tecnologies. <br/>
--
-- 📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields. <br/>
--
-- 📫 Reach me through my linked -: https://www.linkedin.com/in/ayush-kesarwani-bb9342197/
 
+- 👀 I’m interested in Problem solving, DSA problems and Web development. <br/>
+
+- 🌱 I’m currently learning Full stack development. <br/>
+
+- 💞️ I’m looking to collaborate on New tecnologies. <br/>
+
+- 📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields. <br/>
+
+- 📫 Reach me through my linked -: https://www.linkedin.com/in/ayush-kesarwani-bb9342197/
 
 <!---
 ayus786/ayus786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
