@@ -3,13 +3,13 @@
 <h3 align="center">A passionate software developer from India</h3>
 😄 Pronouns: He/Him <br/>
 
-- 🎓 I’m currently pursuing my Bachelors in Computer Science Engineering and have a strong interest in Coding💙 <br/>
+- 🎓 I’m currently pursuing my Bachelors in Computer Science Engineering from SLIET University, Punjab and have a strong interest in Coding💙 <br/>
 
 - 👀 I’m interested in Problem solving, DSA problems and Web development. <br/>
 
 - 🌱 I’m currently learning Full stack development. <br/>
 
-- 💞️ I’m looking to collaborate on New tecnologies. <br/>
+- 💞️ I’m looking to collaborate on New technologies. <br/>
 
 - 📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields. <br/>
 
