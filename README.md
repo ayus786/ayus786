@@ -76,7 +76,7 @@ You can click the Preview link to take a look at your changes.
 ## Contribution Graph 📊
 
 <img
-     src="https://activity-graph.herokuapp.com/graph?username=ayus786&theme=chartreuse-dark"
+     src="https://github-readme-activity-graph.cyclic.app/graph?username=ayus786&theme=chartreuse-dark"
      />
 ---
 <div align="center">
